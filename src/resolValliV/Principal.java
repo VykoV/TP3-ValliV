@@ -5,6 +5,7 @@ import resolValliV.ejercicio1.Ejercicio1;
 import resolValliV.ejercicio2.Ejercicio2;
 import resolValliV.ejercicio3.Ejercicio3;
 import resolValliV.ejercicio4.Ejercicio4;
+import resolValliV.ejercicio5.Ejercicio5;
 
 public class Principal {
     public static void main (String[] args){
@@ -32,6 +33,7 @@ public class Principal {
                 Ejercicio4.ejecutar();
                 break;
             case (5):
+                Ejercicio5.ejecutar();
                 break;
             case (6):
                 System.exit(0);
