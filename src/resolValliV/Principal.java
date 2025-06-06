@@ -4,6 +4,7 @@ import java.util.Scanner;
 import resolValliV.ejercicio1.Ejercicio1;
 import resolValliV.ejercicio2.Ejercicio2;
 import resolValliV.ejercicio3.Ejercicio3;
+import resolValliV.ejercicio4.Ejercicio4;
 
 public class Principal {
     public static void main (String[] args){
